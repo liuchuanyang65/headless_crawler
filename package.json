@@ -1,0 +1,27 @@
+{
+  "name": "headless_crawler",
+  "version": "1.0.0",
+  "description": "NodeJS 简易爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuchuanyang65/headless_crawler.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "爬虫"
+  ],
+  "author": "liuchuangyang65",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuchuanyang65/headless_crawler/issues"
+  },
+  "homepage": "https://github.com/liuchuanyang65/headless_crawler#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
